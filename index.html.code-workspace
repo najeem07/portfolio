@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../../.."
+		},
+		{
+			"path": "../PY gfg"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "najee"
+	}
+}
